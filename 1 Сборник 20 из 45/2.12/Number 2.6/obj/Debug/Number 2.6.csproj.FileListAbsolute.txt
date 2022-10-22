@@ -1,0 +1,7 @@
+C:\Users\Студент.PC10\Desktop\Number 2.6\Number 2.6\bin\Debug\Number 2.6.exe.config
+C:\Users\Студент.PC10\Desktop\Number 2.6\Number 2.6\bin\Debug\Number 2.6.exe
+C:\Users\Студент.PC10\Desktop\Number 2.6\Number 2.6\bin\Debug\Number 2.6.pdb
+C:\Users\Студент.PC10\Desktop\Number 2.6\Number 2.6\obj\Debug\Number 2.6.csproj.AssemblyReference.cache
+C:\Users\Студент.PC10\Desktop\Number 2.6\Number 2.6\obj\Debug\Number 2.6.csproj.CoreCompileInputs.cache
+C:\Users\Студент.PC10\Desktop\Number 2.6\Number 2.6\obj\Debug\Number 2.6.exe
+C:\Users\Студент.PC10\Desktop\Number 2.6\Number 2.6\obj\Debug\Number 2.6.pdb

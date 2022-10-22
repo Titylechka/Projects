@@ -1,0 +1,8 @@
+C:\Users\Студент.PC10\Desktop\MBA\5.28 доделаьт\5.28\bin\Debug\5.28.exe.config
+C:\Users\Студент.PC10\Desktop\MBA\5.28 доделаьт\5.28\bin\Debug\5.28.exe
+C:\Users\Студент.PC10\Desktop\MBA\5.28 доделаьт\5.28\bin\Debug\5.28.pdb
+C:\Users\Студент.PC10\Desktop\MBA\5.28 доделаьт\5.28\obj\Debug\5.28.csproj.AssemblyReference.cache
+C:\Users\Студент.PC10\Desktop\MBA\5.28 доделаьт\5.28\obj\Debug\5.28.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент.PC10\Desktop\MBA\5.28 доделаьт\5.28\obj\Debug\5.28.csproj.CoreCompileInputs.cache
+C:\Users\Студент.PC10\Desktop\MBA\5.28 доделаьт\5.28\obj\Debug\5.28.exe
+C:\Users\Студент.PC10\Desktop\MBA\5.28 доделаьт\5.28\obj\Debug\5.28.pdb

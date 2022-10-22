@@ -1,0 +1,7 @@
+C:\Users\Студент.PC10\Desktop\MBA\4.43\4.43\bin\Debug\4.43.exe.config
+C:\Users\Студент.PC10\Desktop\MBA\4.43\4.43\bin\Debug\4.43.exe
+C:\Users\Студент.PC10\Desktop\MBA\4.43\4.43\bin\Debug\4.43.pdb
+C:\Users\Студент.PC10\Desktop\MBA\4.43\4.43\obj\Debug\4.43.csproj.AssemblyReference.cache
+C:\Users\Студент.PC10\Desktop\MBA\4.43\4.43\obj\Debug\4.43.csproj.CoreCompileInputs.cache
+C:\Users\Студент.PC10\Desktop\MBA\4.43\4.43\obj\Debug\4.43.exe
+C:\Users\Студент.PC10\Desktop\MBA\4.43\4.43\obj\Debug\4.43.pdb

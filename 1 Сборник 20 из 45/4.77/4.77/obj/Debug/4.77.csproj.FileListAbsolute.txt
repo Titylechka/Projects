@@ -1,0 +1,7 @@
+C:\Users\Студент.PC10\Desktop\MBA\4.77\4.77\bin\Debug\4.77.exe.config
+C:\Users\Студент.PC10\Desktop\MBA\4.77\4.77\bin\Debug\4.77.exe
+C:\Users\Студент.PC10\Desktop\MBA\4.77\4.77\bin\Debug\4.77.pdb
+C:\Users\Студент.PC10\Desktop\MBA\4.77\4.77\obj\Debug\4.77.csproj.AssemblyReference.cache
+C:\Users\Студент.PC10\Desktop\MBA\4.77\4.77\obj\Debug\4.77.csproj.CoreCompileInputs.cache
+C:\Users\Студент.PC10\Desktop\MBA\4.77\4.77\obj\Debug\4.77.exe
+C:\Users\Студент.PC10\Desktop\MBA\4.77\4.77\obj\Debug\4.77.pdb
